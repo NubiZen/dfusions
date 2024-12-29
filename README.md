@@ -35,6 +35,6 @@ This script automates generate files and upload it to dfussions dashboard.
     ```
 4. Run the script: for first time running this will ask you to input apiKey
     ```sh
-    npm run start
+    node main.js
     ```
 # dfusions
