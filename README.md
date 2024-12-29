@@ -1,5 +1,4 @@
 # Dfusions Auto Generate and upload files
-![banner](image.png)
 
 This script automates generate files and upload it to dfussions dashboard.
 
