@@ -16,7 +16,7 @@ This script automates generate files and upload it to dfussions dashboard.
 - anti-captcha apikey you can get it here: https://anti-captcha.com/clients/settings/apisetup
 - dfusions token: register here [https://genesis.dfusion.ai](https://genesis.dfusion.ai?r=5ukxtqls)
 - inspect or F12 if you already login, find Application and copy jwt value.
-    ![token](imag.png)
+    ![token](Imge.png)
 
 ## Installation
 
